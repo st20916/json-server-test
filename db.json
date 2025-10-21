@@ -1,0 +1,22 @@
+{
+  "board": [
+    {
+      "id": "1",
+      "title": "첫번째 게시글 타이틀",
+      "category": "개발",
+      "content": "JSON Server에서 호출하는 첫번째 게시글입니다. 배포 테스트입니다."
+    },
+    {
+      "id": "2",
+      "title": "두번째 게시글 타이틀",
+      "category": "개발",
+      "content": "JSON Server에서 호출하는 두번째 게시글입니다. 배포 테스트입니다."
+    },
+    {
+      "id": "3",
+      "title": "세번째 게시글 타이틀",
+      "category": "개발",
+      "content": "JSON Server에서 호출하는 세번째 게시글입니다. 배포 테스트입니다."
+    }
+  ]
+}
