@@ -28,7 +28,7 @@ function App() {
       ...newData
     }
 
-    const response = await fetch(`https://my-json-server.typicode.com/st20916/json-server-test/board`, {
+    const response = await fetch(`http://localhost:5000/board`, {
       method: 'POST',
       headers : {
         'Content-Type': 'application/json'
