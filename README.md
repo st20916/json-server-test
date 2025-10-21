@@ -16,3 +16,7 @@ const url = 'https://my-json-server.typicode.com/st20916/json-server-test/board'
 ```
 
 5. 그러고 배포하면 해당, 데이터 읽기 가능
+
+
+## Demo
+* [데모](https://jeongjarry-json-server.netlify.app)
